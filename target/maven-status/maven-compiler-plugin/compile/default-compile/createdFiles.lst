@@ -1,0 +1,5 @@
+plus\antdev\fundamentalgroup\json\SerializationManager.class
+plus\antdev\fundamentalgroup\Main.class
+plus\antdev\fundamentalgroup\events\FundamentalGroupListener.class
+plus\antdev\fundamentalgroup\utils\FileUtils.class
+plus\antdev\fundamentalgroup\database\DatabaseManager.class
